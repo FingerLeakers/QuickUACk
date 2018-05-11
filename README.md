@@ -34,8 +34,11 @@ You can consult this list to see the applications that are whitelisted by defaul
 </BR>
 and therefore do not require uac checking to be performed:
 </BR>
+
 https://github.com/JonnyBanana/UAC-System32-Whitelisted-App-List
+
 </BR>
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 QuickUACk Ver. 1.0
